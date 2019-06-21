@@ -1,0 +1,6 @@
+framework module DisplayA {
+  umbrella header "DisplayA.h"
+
+  export *
+  module * { export * }
+}
